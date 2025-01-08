@@ -3787,7 +3787,6 @@ zayit.lon.spotify.com
 zhcn.admob.com
 zlink.app.spotify.com
 z.moatads.com
-0.0.0.0 35.186.224.40
 0.0.0.0 i.scdn.co
 0.0.0.0 firebaselogging-pa.googleapis.com
 0.0.0.0 census-app.scorecardresearch.com
@@ -3795,13 +3794,6 @@ z.moatads.com
 0.0.0.0 servedby.flashtalking.com
 0.0.0.0 aet.spotify.com
 0.0.0.0 gae2-dealer.spotify.com
-0.0.0.0 23.48.245.49
-0.0.0.0 239.255.255.250
-0.0.0.0 35.186.224.22
-0.0.0.0 18.66.78.49
-0.0.0.0 99.86.47.18
-0.0.0.0 239.255.255.250
 0.0.0.0 api2.branch.io
 0.0.0.0 cdn.branch.io
-0.0.0.0 spclient.wg.spotify.com
 0.0.0.0 apresolve.spotify.com
