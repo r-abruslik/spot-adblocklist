@@ -3797,4 +3797,4 @@ z.moatads.com
 0.0.0.0 api2.branch.io
 0.0.0.0 cdn.branch.io
 0.0.0.0 apresolve.spotify.com
-
+0.0.0.0 spclient.wg.spotify.com
